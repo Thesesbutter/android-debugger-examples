@@ -1,13 +1,5 @@
 ﻿4pdaClient
-==========
-Неофициальный android-клиент для сайта 4pda.ru
-
-<a href="https://f-droid.org/app/org.softeg.slartus.forpdaplus"><img src="https://f-droid.org/badge/get-it-on-ru.png" alt="Получить его от F-Droid" height="100"></a>
-
-Обсуждение программы по адресу:
-http://4pda.ru/forum/index.php?showtopic=271502
-
-Замечания, предложения, помощь приветствуются
+=======ются
 
 
 Используемые библиотеки:

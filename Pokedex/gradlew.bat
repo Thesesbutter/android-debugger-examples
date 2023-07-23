@@ -14,7 +14,7 @@
 @rem limitations under the License.
 @rem
 
-@if "%DEBUG%" == "" @echo off
+@if "%DEBUG%" == "" @echo $1 off 
 @rem ##########################################################################
 @rem
 @rem  Gradle startup script for Windows

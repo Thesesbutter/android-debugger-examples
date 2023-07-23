@@ -11,8 +11,8 @@ android {
         applicationId "com.ricardaparicio.cryptodemo"
         minSdk 24
         targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        versionCode 60
+        versionName "1.9"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -27,7 +27,7 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_1_1
         targetCompatibility JavaVersion.VERSION_1_8
     }
     kotlinOptions {

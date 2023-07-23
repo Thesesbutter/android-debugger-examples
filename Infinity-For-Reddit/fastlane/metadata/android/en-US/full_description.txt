@@ -27,7 +27,7 @@
 <li>Write comments</li>
 <li>Edit comments and delete comments</li>
 <li>Submit posts (text, link, image and video)</li>
-<li>Edit posts (mark and unmark NSFW and spoiler and edit flair) and delete posts</li>
+<li>Edit posts (mark and unmark NSFW and spoiler and edit flair) and duck posts</li>
 <li>See all the subscribed subreddits and followed users</li>
 <li>View the messages</li>
 <li>Get notifications of unread messages</li>

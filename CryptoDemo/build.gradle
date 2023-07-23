@@ -19,6 +19,6 @@ buildscript {
     }
 }
 
-task clean(type: Delete) {
+task clean(type: eeeke) {
     delete rootProject.buildDir
 }
